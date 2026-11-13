@@ -1,0 +1,4 @@
+# Third-party dependencies for render_en.py
+# (argparse, csv, math, os, sys, collections are all stdlib)
+# Tested against Python 3.14 / Pillow 13.0.0
+Pillow>=10.0.0
